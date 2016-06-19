@@ -4,14 +4,14 @@ base:                    535005
 circl_IUPtWxmVV4o1rNcH0h20Iv:29416
 conta_5w3UY4chXx62LVUOUrXeRm:117360
 depen_5vw10fkSDDD0LdF4Qk8khv:2833
-depen_HCFzp6ZGqMz1lvJkHhl9BD:46666
+depen_HCFzp6ZGqMz1lvJkHhl9BD:46710
 excep_GsT9breZyJSLZ8kkCjLGTR:4696
 ghc-prim:                28835
 ghcjs_B7KLFJ07Vte3zPHAgRIBTb:11013
 ghcjs_D7BYGeMTlMGF2My8KZzKUS:161624
 ghcjs_Kc7TQ2cEDg1F5e5cgY2Vuk:9821
 integer-gmp:             31385
-main:                    22378
+main:                    22997
 refle_BP42iAL8rA7IBOuWCaV0zs:387437
 refle_IbNW0IEhD2N2cZrEG6FTBQ:423665
 reftf_JOU40Nd0lxyACBtr3v80Qj:1202
@@ -97,8 +97,8 @@ depen_5vw10fkSDDD0LdF4Qk8khv
     Data.GADT.Compare:                  2184
 
 depen_HCFzp6ZGqMz1lvJkHhl9BD
-    Data.Dependent.Map:                 13210
-    Data.Dependent.Map.Internal:        33456
+    Data.Dependent.Map:                 13212
+    Data.Dependent.Map.Internal:        33498
 
 excep_GsT9breZyJSLZ8kkCjLGTR
     Control.Monad.Exception:            4696
@@ -135,7 +135,7 @@ integer-gmp
     GHC.Integer.Type:                   31052
 
 main
-    Main:                               22378
+    Main:                               22997
 
 refle_BP42iAL8rA7IBOuWCaV0zs
     Data.Functor.Misc:                  3225
@@ -166,5 +166,5 @@ trans_KzbnBSIEqPI2eU1Inn4mzm
 
 
 
-packed metadata: 363702
+packed metadata: 364121
 
