@@ -46,6 +46,6 @@ main = mainWidget $ do
         ti <- textInput $ def { _textInputConfig_initialValue 
                                     = "50 32 30 30 40 35 5 20 43 18 12 " 
                               , _textInputConfig_attributes 
-                                    = constDyn $ fromList [("size", "100")]
+                                    = constDyn $ fromList [("size", "60")]
                               }
     return ()
