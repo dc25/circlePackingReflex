@@ -62581,7 +62581,7 @@ function h$$TA()
 function h$$Tz()
 {
   h$bh();
-  var a = h$ustra("100");
+  var a = h$ustra("60");
   var b = h$ustra("size");
   h$l3(h$c2(h$ghczmprimZCGHCziTypesziZC_con_e, h$c2(h$ghczmprimZCGHCziTupleziZLz2cUZR_con_e, b, a),
   h$ghczmprimZCGHCziTypesziZMZN), h$$VB, h$contazu5w3UY4chXx62LVUOUrXeRmZCDataziMapziBasezifromList);
